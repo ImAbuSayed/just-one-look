@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Just One Look
+
+This log tracks the cryptographic history and versioning for the song **Just One Look** (just-one-look).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T03:50:00.506506 | `v1` | `581fce065ce6d2885c6abadd3ed8eb0ebcd2acbdd4fb73e395b7bc5d433ec6da` | `4af5209b0a7acb3daf37dd2de56a7197ee0ece531d3777e119ccad63cf44056c` | `2026-05-25_just-one-look-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

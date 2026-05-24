@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/just-one-look/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Just One Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-one-look/) |
+| **Get License** | [Request Licensing for Just One Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-one-look/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `581fce065ce6d2885c6abadd3ed8eb0ebcd2acbdd4fb73e395b7bc5d433ec6da` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
