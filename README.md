@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/just-one-look/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Just One Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-one-look/) |
+| **Get License** | [Music Rights & Licensing for Just One Look](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-one-look/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Just one look across this crowded room
+> I can feel the magic start to bloom
+> You are shining like a silver moon
+> I wanna get to know you, I wanna hold you soon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
